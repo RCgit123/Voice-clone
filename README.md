@@ -57,7 +57,7 @@ In our project, MCD serves as a valuable metric to assess the quality of generat
 
 **Note:**
 
-Visit [GitHub](https://github.com/neonbjb/tortoise-tts) for more information about TORTOISE TTS.
+Visit [TORTOISE TTS](https://github.com/neonbjb/tortoise-tts) for more information about TORTOISE TTS.
 
 
 MCD is one of several metrics that collectively provide a comprehensive evaluation of the performance of our TTS (Text-to-Speech) model. It is particularly useful for analyzing the accuracy of spectral features in the generated speech.
